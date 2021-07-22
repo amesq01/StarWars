@@ -4,5 +4,5 @@ export const Text = styled.Text`
   font-size: 24px;
   color: ${({ color }) => color || "white"};
   font-weight: bold;
-  margin-top: 20;
+  margin-top: 10;
 `;
